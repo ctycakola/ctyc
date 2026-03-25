@@ -6,3 +6,4 @@ dist/
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+/.idea
